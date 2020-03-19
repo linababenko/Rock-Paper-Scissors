@@ -1,1 +1,1 @@
-OPEN YOUR IDE AND RUN
+OPEN YOUR IDE AND RUN# rock-paper-scissors
